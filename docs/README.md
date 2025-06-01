@@ -1,3 +1,6 @@
+# This repository has been archived
+Please take a look at [smoos](https://github.com/SchweGELBin/smoos)
+
 # SMOOS-Bot
 
 This Bot can control the Super Mario Odyssey: Online Server
